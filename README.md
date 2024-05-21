@@ -1,5 +1,4 @@
-# JavaScript-Interview-Questions-Answers
-# JavaScript Interview Questions
+# JavaScript Interview Questions Answers
 
 ### Q1: Explain equality in JavaScript ☆
 
