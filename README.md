@@ -1,5 +1,8 @@
 # JavaScript Interview Questions Answers
 
+### Array Prototypes
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+
 ### Q1: Explain equality in JavaScript ☆
 
 **Answer:**
